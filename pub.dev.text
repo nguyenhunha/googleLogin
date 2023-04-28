@@ -1,0 +1,22 @@
+NEW
+    flutter pub add get
+    flutter pub add http font_awesome_flutter flutter_screenutil
+    
+    flutter pub add flutter_rating_bar pin_code_fields intl animations get get_storage timeline_tile skeletons cached_network_image internet_connection_checker lottie
+
+UPDATE
+
+    flutter pub upgrade http
+    flutter pub upgrade font_awesome_flutter
+    flutter pub upgrade flutter_screenutil
+    flutter pub upgrade flutter_rating_bar
+    flutter pub upgrade pin_code_fields
+    flutter pub upgrade intl
+    flutter pub upgrade animations
+    flutter pub upgrade get
+    flutter pub upgrade get_storage
+    flutter pub upgrade timeline_tile
+    flutter pub upgrade skeletons
+    flutter pub upgrade cached_network_image
+    flutter pub upgrade internet_connection_checker
+    flutter pub upgrade lottie
